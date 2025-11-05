@@ -28,12 +28,11 @@
 ## 📅 Daily Learning Log
 | Day | Topic | Notes |
 |-----|--------|--------|
-| 1 | Text Loaders & Document Splitters | Basics of LangChain document processing |
-| 2 | Embeddings & Vector Stores | Created FAISS & Chroma examples |
-| 3 | Retrieval-Augmented Generation (RAG) | Implemented a simple RAG pipeline |
-| 4 | Chat Models & Memory | Worked on conversational memory |
-| 5 | LangGraph Introduction | Building agent workflows |
-| ... | ... | ... |
+| 1 | Data Ingestion With Document Loaders & Text Splitting With RecursiveCharacterTextSplitter
+| 2 | 
+| 3 | 
+| 4 | 
+| 5 | 
 
 ---
 
